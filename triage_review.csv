@@ -1,0 +1,7 @@
+timestamp,url,model_pred,confidence,risk,recommended_action,reviewed_label,analyst_notes
+2025-07-31T05:29:33.367411,"https://www.google.com/",legitimate,0.986329,High,"Allow, raise for review",,
+2025-07-31T05:29:57.184306,"https://www.nytimes.com/2023/08/31/technology/artificial-intelligence.html",legitimate,0.788770,Medium,"Allow, raise for review",,
+2025-07-31T05:30:10.039521,"http://goog1e.com-login-account-security.gq/",phishing,0.892957,Medium,"Block, alert user, hunt IOCs",,
+2025-07-31T05:30:29.790508,"https://secure-paypal.com.verify-user-session.info/login.php",phishing,0.980282,High,"Block, alert user, hunt IOCs",,
+2025-07-31T05:56:43.942224,"https://www.nytimes.com/2023/08/31/technology/artificial-intelligence.html",legitimate,0.788770,Medium,"Allow, raise for review",,
+2025-07-31T05:57:15.923889,"https://secure-paypal.com.verify-user-session.info/login.php",phishing,0.980282,High,"Block, alert user, hunt IOCs",,
